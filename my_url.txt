@@ -1,2 +1,2 @@
 # You will enter your deployed Surge URL here
-staking-cow.surge.sh
+http://staking-cow.surge.sh
